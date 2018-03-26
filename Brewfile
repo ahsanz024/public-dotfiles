@@ -9,6 +9,7 @@ brew "autoconf"
 brew "automake"
 brew "bash"
 brew "bash-completion"
+brew "bazel"
 brew "bison"
 brew "boost"
 brew "c-ares"
@@ -16,6 +17,7 @@ brew "chruby"
 brew "coreutils"
 brew "ctop"
 brew "curl"
+brew "dep"
 brew "dependency-check"
 brew "docker-machine"
 brew "docker-machine-driver-xhyve"
@@ -117,3 +119,4 @@ tap "caskroom/cask"
 mas "Helium", id: 1054607607
 mas "iHex", id: 909566003
 mas "Things3", id: 904280696
+mas "Gifox – GIF Recording & Shari… ", id: 1082624744
