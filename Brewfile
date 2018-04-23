@@ -114,6 +114,10 @@ brew "emacs", args: ["with-cocoa", "with-gnutls"]
 
 # Taps
 tap "caskroom/cask"
+tap "caskroom/fonts"
+
+# Casks
+cask "font-fira-code"
 
 # Mac App Store
 mas "Helium", id: 1054607607
